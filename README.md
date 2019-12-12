@@ -9,4 +9,7 @@ et au **noir** il vira.
 arrière arrière cria le canard noir 
 de peur, la barque changea de couleur...
 
-
+mais il n'aimait pas etre tout noir,
+car ça lui donnait le cafard. 
+Il remonta sur le bord,
+pour y retourver un chercheur d'or
