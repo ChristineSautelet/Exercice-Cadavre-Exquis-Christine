@@ -3,3 +3,8 @@
 Par un matin brumeux, au bord du lac, se promenait
 un petit canard.
 **Quand soudain une barque arriva...**
+De peur, le canard changea de 
+<span style="color: #fb4141">couleur</span>
+
+
+
